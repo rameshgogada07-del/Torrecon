@@ -92,11 +92,7 @@ robots.txt & sitemap.xml
 Configuration
 TOR_PROXY = "socks5h://127.0.0.1:9050"
 
-👨‍💻 Developer
 
-Ramesh Gogada
-
-Cybersecurity & OSINT Enthusiast
 
 
 
